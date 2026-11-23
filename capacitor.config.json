@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.busjam",
+  "appName": "Bus Jam",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
